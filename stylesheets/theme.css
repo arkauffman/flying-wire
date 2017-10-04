@@ -1357,7 +1357,7 @@ nav {
   padding-left: 0;
 }
 .nav-module:last-of-type {
-  padding-right: 30px;
+  padding-right: 0;
 }
 .nav-bar,
 .utility-bar {

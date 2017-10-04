@@ -7,7 +7,7 @@
     padding-left: 10px;
 }
 
-nav {
+nav, .nav-bar.nav--fixed {
     background-color: #7EA07E !important;
     box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.5);
 }
@@ -17,5 +17,10 @@ section {
 }
 
 a {
+    padding-left: 15px;
     color: #073A07 !important;
+}
+
+ul.menu {
+    padding-right: 30px !important;
 }
