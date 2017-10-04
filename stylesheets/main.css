@@ -1,0 +1,21 @@
+.seal {
+    width: 150px;
+    height: 100px;
+}
+
+.license {
+    padding-left: 10px;
+}
+
+nav {
+    background-color: #7EA07E !important;
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.5);
+}
+
+section {
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.5);
+}
+
+a {
+    color: #073A07 !important;
+}
