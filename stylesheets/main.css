@@ -7,13 +7,13 @@
     padding-left: 10px;
 }
 
-nav, .nav-bar.nav--fixed {
-    background-color: #7EA07E !important;
-    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.5);
-}
-
 .contact {
     color: white !important;
+}
+
+img.about-image {
+    width: 300px !important;
+    height: 250px !important;
 }
 
 section {
@@ -27,4 +27,19 @@ a {
 
 ul.menu {
     padding-right: 30px !important;
+}
+
+.btn.btn--primary {
+    background-color: #F0C53B !important;
+    border-color: #F0C53B !important;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.btn__text {
+    color: grey !important;
+}
+
+.logo {
+    width: 50px;
+    height: 100px;
 }
